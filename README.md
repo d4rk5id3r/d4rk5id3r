@@ -12,13 +12,13 @@
 <!-- got badge colors from simpleicons.org -->
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/jude-nwadinobi"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=%C5%9Eefik%20Efe&logo=linkedin&color=0A66C2" alt="LinkedIn"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jude-nwadinobi"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=d4rk5id3&logo=linkedin&color=0A66C2" alt="LinkedIn"></a>&nbsp;
 
   <!-- GitHub -->
-  <a href="https://github.com/d4rk5id3r"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=f4T1H21&logo=github&color=181717" alt="GitHub"></a>&nbsp;
+  <a href="https://github.com/d4rk5id3r"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=d4rk5id3&logo=github&color=181717" alt="GitHub"></a>&nbsp;
 
   <!-- Hack The Box -->
-  <a href=""><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=f4T1H21&logo=hackthebox&color=9FEF00" alt="HackTheBox"></a>&nbsp;
+  <a href=""><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=d4rk5id3&logo=hackthebox&color=9FEF00" alt="HackTheBox"></a>&nbsp;
 
   <!-- TryHackMe -->
   <a href=""><img  src="https://tryhackme.com/badge/1139237" alt="TryHackMe"></a>&nbsp;
