@@ -85,8 +85,8 @@ medium.com/@juden098 </a>
 <hr/>
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=f4T1H21&show_icons=true&theme=algolia&count_private=true" alt="statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4T1H21&layout=compact&theme=algolia" alt="top-languages">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=d4rk5id3r&show_icons=true&theme=algolia&count_private=true" alt="statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4rk5id3r&layout=compact&theme=algolia" alt="top-languages">
 </p>
   
 <br/>
