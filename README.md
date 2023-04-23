@@ -1,5 +1,5 @@
 <a href="https://git.io/fatih21">
-  <img src="img/banner.png" align="center">
+  <img src="img/Banner.png" align="center">
 </a>
 
 <h2>Hi, my name is Jude Nwadinobi aka d4rk5id3 👋 
