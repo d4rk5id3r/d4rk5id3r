@@ -25,7 +25,7 @@
 
    <!-- Buy Me A Coffee -->
   <a href="https://www.buymeacoffee.com/d4rk5id3"><img src="https://img.shields.io/static/v1?style=flat-square&logoColor=ffffff&label=&message=f4T1H21&logo=buymeacoffee&color=FFDD00" alt="Buymeacoffee"></a>&nbsp;
-
+</p>
   <h3>🌐 Technologies I deal with</h3>
   <p align="center">
   <!-- Python -->
