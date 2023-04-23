@@ -73,9 +73,8 @@
 <h3>📝 CTF & Cybersecurity Writeups: <a href="medium.com/@juden098">
 medium.com/@juden098 </a>
 
- <a href="https://app.hackthebox.com/profile/184235">
-    <img src=https://www.hackthebox.com/badge/image/184235 align="right" alt="htb-badge">
-  </a>
+ <a href="https://tryhackme.com/p/D4RK5ID3">
+ <script src="https://tryhackme.com/badge/1139237"></script>  </a>
   <a href="https://www.buymeacoffee.com/d4rk5id3">
     <img src="support.png" align="right" height="50" alt="support">
   </a>
