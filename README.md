@@ -75,7 +75,7 @@ medium.com/@juden098 </a>
 
  
  <a href="https://app.hackthebox.com/profile/184235">
-    <img src=src="https://tryhackme.com/badge/1139237" align="right" alt="htb-badge">
+    <img src="https://tryhackme.com/badge/1139237" align="right" alt="htb-badge">
   </a>
   <a href="https://www.buymeacoffee.com/d4rk5id3">
     <img src="support.png" align="right" height="50" alt="support">
