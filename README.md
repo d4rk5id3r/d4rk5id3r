@@ -2,7 +2,7 @@
   <img src="img/Banner.png" align="center">
 </a>
 
-<h2>Hi, my name is Jude Nwadinobi aka d4rk5id3 👋 
+<h2>Hi, my name is Jude Nwadinobi aka 0xd4rk5id3 👋 
  <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=d4rk5id3r.d4rk5id3r&left_color=grey&right_color=red" alt="profile-visits" align="right"></a>
  </h2>
 
